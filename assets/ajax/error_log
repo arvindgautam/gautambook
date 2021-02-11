@@ -1,0 +1,48 @@
+[15-Feb-2016 07:38:11 Etc/GMT] PHP Warning:  move_uploaded_file(http://community.isprasoft.com/assets/upload/active.png): failed to open stream: HTTP wrapper does not support writeable connections in /home/isprasof/public_html/dev/community/assets/ajax/ajax_image.php on line 23
+[15-Feb-2016 07:38:11 Etc/GMT] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpwXwiH8' to 'http://community.isprasoft.com/assets/upload/active.png' in /home/isprasof/public_html/dev/community/assets/ajax/ajax_image.php on line 23
+[15-Feb-2016 10:40:41 Etc/GMT] PHP Fatal error:  Call to undefined function base_url() in /home/isprasof/public_html/dev/community/assets/ajax/ajax_image.php on line 16
+[15-Feb-2016 10:41:55 Etc/GMT] PHP Fatal error:  Call to undefined function base_url() in /home/isprasof/public_html/dev/community/assets/ajax/ajax_image.php on line 16
+[17-Feb-2016 07:25:16 Etc/GMT] PHP Fatal error:  Call to undefined function base_url() in /home/isprasof/public_html/dev/community/assets/ajax/ajax_image.php on line 6
+[18-Feb-2016 12:42:55 Etc/GMT] PHP Fatal error:  Using $this when not in object context in /home/isprasof/public_html/dev/community/assets/ajax/ajax_like.php on line 7
+[18-Feb-2016 12:42:58 Etc/GMT] PHP Fatal error:  Using $this when not in object context in /home/isprasof/public_html/dev/community/assets/ajax/ajax_like.php on line 7
+[18-Feb-2016 12:47:32 Etc/GMT] PHP Fatal error:  Using $this when not in object context in /home/isprasof/public_html/dev/community/assets/ajax/ajax_like.php on line 7
+[18-Feb-2016 12:47:32 Etc/GMT] PHP Fatal error:  Using $this when not in object context in /home/isprasof/public_html/dev/community/assets/ajax/ajax_like.php on line 7
+[19-Feb-2016 08:24:04 Etc/GMT] PHP Fatal error:  Using $this when not in object context in /home/isprasof/public_html/dev/community/assets/ajax/ajax_like.php on line 19
+[19-Feb-2016 08:24:12 Etc/GMT] PHP Fatal error:  Using $this when not in object context in /home/isprasof/public_html/dev/community/assets/ajax/ajax_like.php on line 19
+[19-Feb-2016 08:29:09 Etc/GMT] PHP Fatal error:  Using $this when not in object context in /home/isprasof/public_html/dev/community/assets/ajax/ajax_like.php on line 14
+[19-Feb-2016 08:29:11 Etc/GMT] PHP Fatal error:  Using $this when not in object context in /home/isprasof/public_html/dev/community/assets/ajax/ajax_like.php on line 14
+[19-Feb-2016 08:29:12 Etc/GMT] PHP Fatal error:  Using $this when not in object context in /home/isprasof/public_html/dev/community/assets/ajax/ajax_like.php on line 14
+[19-Feb-2016 08:29:12 Etc/GMT] PHP Fatal error:  Using $this when not in object context in /home/isprasof/public_html/dev/community/assets/ajax/ajax_like.php on line 14
+[19-Feb-2016 08:29:12 Etc/GMT] PHP Fatal error:  Using $this when not in object context in /home/isprasof/public_html/dev/community/assets/ajax/ajax_like.php on line 14
+[19-Feb-2016 08:29:13 Etc/GMT] PHP Fatal error:  Using $this when not in object context in /home/isprasof/public_html/dev/community/assets/ajax/ajax_like.php on line 14
+[19-Feb-2016 08:29:13 Etc/GMT] PHP Fatal error:  Using $this when not in object context in /home/isprasof/public_html/dev/community/assets/ajax/ajax_like.php on line 14
+[19-Feb-2016 08:29:13 Etc/GMT] PHP Fatal error:  Using $this when not in object context in /home/isprasof/public_html/dev/community/assets/ajax/ajax_like.php on line 14
+[19-Feb-2016 08:29:13 Etc/GMT] PHP Fatal error:  Using $this when not in object context in /home/isprasof/public_html/dev/community/assets/ajax/ajax_like.php on line 14
+[19-Feb-2016 08:29:14 Etc/GMT] PHP Fatal error:  Using $this when not in object context in /home/isprasof/public_html/dev/community/assets/ajax/ajax_like.php on line 14
+[19-Feb-2016 08:29:14 Etc/GMT] PHP Fatal error:  Using $this when not in object context in /home/isprasof/public_html/dev/community/assets/ajax/ajax_like.php on line 14
+[19-Feb-2016 08:29:14 Etc/GMT] PHP Fatal error:  Using $this when not in object context in /home/isprasof/public_html/dev/community/assets/ajax/ajax_like.php on line 14
+[19-Feb-2016 08:29:55 Etc/GMT] PHP Fatal error:  Using $this when not in object context in /home/isprasof/public_html/dev/community/assets/ajax/ajax_like.php on line 2
+[19-Feb-2016 08:29:56 Etc/GMT] PHP Fatal error:  Using $this when not in object context in /home/isprasof/public_html/dev/community/assets/ajax/ajax_like.php on line 2
+[19-Feb-2016 08:29:56 Etc/GMT] PHP Fatal error:  Using $this when not in object context in /home/isprasof/public_html/dev/community/assets/ajax/ajax_like.php on line 2
+[19-Feb-2016 08:29:57 Etc/GMT] PHP Fatal error:  Using $this when not in object context in /home/isprasof/public_html/dev/community/assets/ajax/ajax_like.php on line 2
+[19-Feb-2016 08:29:58 Etc/GMT] PHP Fatal error:  Using $this when not in object context in /home/isprasof/public_html/dev/community/assets/ajax/ajax_like.php on line 2
+[19-Feb-2016 08:29:58 Etc/GMT] PHP Fatal error:  Using $this when not in object context in /home/isprasof/public_html/dev/community/assets/ajax/ajax_like.php on line 2
+[19-Feb-2016 08:29:58 Etc/GMT] PHP Fatal error:  Using $this when not in object context in /home/isprasof/public_html/dev/community/assets/ajax/ajax_like.php on line 2
+[19-Feb-2016 08:29:59 Etc/GMT] PHP Fatal error:  Using $this when not in object context in /home/isprasof/public_html/dev/community/assets/ajax/ajax_like.php on line 2
+[19-Feb-2016 08:29:59 Etc/GMT] PHP Fatal error:  Using $this when not in object context in /home/isprasof/public_html/dev/community/assets/ajax/ajax_like.php on line 2
+[19-Feb-2016 08:29:59 Etc/GMT] PHP Fatal error:  Using $this when not in object context in /home/isprasof/public_html/dev/community/assets/ajax/ajax_like.php on line 2
+[19-Feb-2016 08:30:02 Etc/GMT] PHP Fatal error:  Using $this when not in object context in /home/isprasof/public_html/dev/community/assets/ajax/ajax_like.php on line 2
+[19-Feb-2016 08:30:06 Etc/GMT] PHP Fatal error:  Using $this when not in object context in /home/isprasof/public_html/dev/community/assets/ajax/ajax_like.php on line 2
+[19-Feb-2016 09:29:50 Etc/GMT] PHP Fatal error:  Using $this when not in object context in /home/isprasof/public_html/dev/community/assets/ajax/ajax_like.php on line 2
+[19-Feb-2016 09:29:57 Etc/GMT] PHP Fatal error:  Using $this when not in object context in /home/isprasof/public_html/dev/community/assets/ajax/ajax_like.php on line 2
+[19-Feb-2016 09:29:58 Etc/GMT] PHP Fatal error:  Using $this when not in object context in /home/isprasof/public_html/dev/community/assets/ajax/ajax_like.php on line 2
+[19-Feb-2016 09:29:58 Etc/GMT] PHP Fatal error:  Using $this when not in object context in /home/isprasof/public_html/dev/community/assets/ajax/ajax_like.php on line 2
+[19-Feb-2016 09:29:59 Etc/GMT] PHP Fatal error:  Using $this when not in object context in /home/isprasof/public_html/dev/community/assets/ajax/ajax_like.php on line 2
+[05-Mar-2016 12:29:51] PHP Parse error:  syntax error, unexpected ')' in /home/gautafth/public_html/assets/ajax/ajax_cover_image.php on line 20
+[05-Mar-2016 12:34:10] PHP Parse error:  syntax error, unexpected ')' in /home/gautafth/public_html/assets/ajax/ajax_cover_image.php on line 20
+[05-Mar-2016 12:42:03] PHP Fatal error:  Using $this when not in object context in /home/gautafth/public_html/assets/ajax/ajax_cover_image.php on line 32
+[05-Mar-2016 12:45:36] PHP Fatal error:  Using $this when not in object context in /home/gautafth/public_html/assets/ajax/ajax_cover_image.php on line 32
+[05-Mar-2016 12:52:03] PHP Fatal error:  Using $this when not in object context in /home/gautafth/public_html/assets/ajax/ajax_cover_image.php on line 32
+[05-Mar-2016 12:54:05] PHP Fatal error:  Using $this when not in object context in /home/gautafth/public_html/assets/ajax/ajax_cover_image.php on line 32
+[05-Mar-2016 12:57:18] PHP Fatal error:  Using $this when not in object context in /home/gautafth/public_html/assets/ajax/ajax_cover_image.php on line 4
+[05-Mar-2016 12:58:49] PHP Fatal error:  Using $this when not in object context in /home/gautafth/public_html/assets/ajax/ajax_cover_image.php on line 2

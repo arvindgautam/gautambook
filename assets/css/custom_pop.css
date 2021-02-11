@@ -1,0 +1,54 @@
+/* 
+	author: istockphp.com
+*/
+#backgroundPopup {
+  background: #000000 none repeat scroll 0 0;
+  height: 100%;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1;
+}
+#toPopup {
+  background: #ffffff none repeat scroll 0 0;
+  border: 10px solid #ccc;
+  border-radius: 3px;
+  color: #333333;
+  display: none;
+  font-size: 14px;
+  left: 25%;
+  margin: 0 auto;
+  position: fixed;    
+  top: 20%;
+  width: 50%;
+  z-index: 2;
+}
+#toPopup .closed {
+  background: transparent url("/assets/images/closebox.png") no-repeat scroll 0 0;
+  bottom: 24px;
+  cursor: pointer;
+  float: right;
+  height: 30px;
+  left: 27px;
+  position: relative;
+  width: 30px;
+}
+.topopup {
+  padding-bottom: 10px;
+}
+#popup_content {
+  padding: 8px;
+}
+.edit_posted .edit_data {
+  height: auto;
+  width: 100%;
+}
+#popup_content .comments-section {
+  max-height: 250px;
+  overflow-y: scroll;
+}
+#popup_album #post-contented {
+  max-height: 250px;
+  overflow-y: scroll;
+}

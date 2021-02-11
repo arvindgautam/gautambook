@@ -1,0 +1,48 @@
+<?php wp_enqueue_media(); ?>
+<input type= "button" name="upload_school_file" onclick = "profilepic()" value = "Upload">
+ <input type = "hidden" id ="profile_pic" name = "profile_pic" value ="">
+ <div class = "myprofile_pic">
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script>
+function profilepic() {
+		// Uploading files
+		var file_frame;
+
+		// event.preventDefault();
+
+		// If the media frame already exists, reopen it.
+		if ( file_frame ) {
+		 file_frame.open();
+		  return;
+		}
+
+		// Create the media frame.
+		file_frame = wp.media.frames.file_frame = wp.media({
+		  title: "SMS Uploader",
+		  button: {
+			text: jQuery( this ).data( 'upload' ),
+		  },
+		  multiple: false  // Set to true to allow multiple files to be selected
+		});
+
+		// When an image is selected, run a callback.
+		 file_frame.on( 'select', function() {
+		 
+		var selection = file_frame.state().get('selection');
+		 
+		selection.map( function( attachment ) {
+		 
+		attachment = attachment.toJSON();
+		jQuery('.myprofile_pic').html('<img class="attachment-profile" src="' + attachment.url + '" alt="Profile Picture" title="Change Your Profile Picture" width = "100px" />')
+		/* jQuery('.myprofile_pic').append('<input type="hidden" name="profile_pic" value="' + attachment.id + '">') */
+		jQuery('#profile_pic').val(attachment.id);
+		jQuery('.old_pic').hide();
+		// Do something with attachment.id and/or attachment.url here
+
+		});
+		});
+		// Finally, open the modal
+		file_frame.open();     
+}
+
+</script>
